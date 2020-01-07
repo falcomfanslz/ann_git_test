@@ -11,4 +11,4 @@ login
     Sleep    3    #等待3秒
     Page Should Contain    我的产品    #断言包含我的产品
     Comment    Page Should Contain    验证    #断言输入登录失败时会出现验证
-    sleep    3
+    sleep    4
